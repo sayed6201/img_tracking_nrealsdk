@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{10A7C760-4018-580B-B70F-D92AE2350AA8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MyTrkImgExampleController.cs">
+    <Files>
+      <File FileName="Assets/Script/MyTrkImgExampleController.cs" Line="98" Column="1" />
+      <File FileName="Assets/Script/MyTrackingImgVis.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Img_trk" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="29f2363b-ff36-4608-884a-4fc67e628af4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
